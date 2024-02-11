@@ -1,0 +1,25 @@
+.body{
+    background-color:#FFEFEF ;
+    height: 1150px;
+    margin: 0;
+    padding: 0;
+}
+.section{
+    width: 50%;
+    height: 900px;
+    border: 1px solid black;
+    background-color:#FFF;
+    margin-left: 18rem;
+    margin-top: 1rem;
+    border: none;
+
+}
+.tabone{
+    width: 50%;
+    height: 80px;
+    border: 1px solid black;
+    background-color:#FFF;
+    margin-left: 18rem;
+    border: none;
+    
+}
