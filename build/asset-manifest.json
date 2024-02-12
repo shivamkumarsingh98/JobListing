@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35973a96.css",
+    "main.js": "/static/js/main.ee7f59b8.js",
+    "static/js/592.12b992cd.chunk.js": "/static/js/592.12b992cd.chunk.js",
+    "static/media/image 466.jpg": "/static/media/image 466.1557e5fdda66485eb87c.jpg",
+    "static/media/WallpaperDog-20567151 1.jpg": "/static/media/WallpaperDog-20567151 1.048edc0f1edabbcc5d2f.jpg",
+    "index.html": "/index.html",
+    "main.35973a96.css.map": "/static/css/main.35973a96.css.map",
+    "main.ee7f59b8.js.map": "/static/js/main.ee7f59b8.js.map",
+    "592.12b992cd.chunk.js.map": "/static/js/592.12b992cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35973a96.css",
+    "static/js/main.ee7f59b8.js"
+  ]
+}
